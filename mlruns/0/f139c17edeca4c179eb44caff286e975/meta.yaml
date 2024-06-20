@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sampa/Desktop/GenAI/ml_flow/mlruns/0/f139c17edeca4c179eb44caff286e975/artifacts
+deleted_time: 1718895370128
+end_time: 1718894260114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f139c17edeca4c179eb44caff286e975
+run_name: melodic-fish-101
+run_uuid: f139c17edeca4c179eb44caff286e975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718894255128
+status: 3
+tags: []
+user_id: sampa

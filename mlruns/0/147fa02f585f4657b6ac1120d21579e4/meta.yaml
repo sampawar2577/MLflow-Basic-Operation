@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sampa/Desktop/GenAI/ml_flow/mlruns/0/147fa02f585f4657b6ac1120d21579e4/artifacts
+end_time: 1718894863371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 147fa02f585f4657b6ac1120d21579e4
+run_name: resilient-grouse-656
+run_uuid: 147fa02f585f4657b6ac1120d21579e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718894857126
+status: 3
+tags: []
+user_id: sampa

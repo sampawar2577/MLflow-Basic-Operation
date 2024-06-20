@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sampa/Desktop/GenAI/ml_flow/mlruns/0/ee87fadcbcc243d096881c861435345e/artifacts
+end_time: 1718894723251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee87fadcbcc243d096881c861435345e
+run_name: gaudy-whale-621
+run_uuid: ee87fadcbcc243d096881c861435345e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718894717860
+status: 3
+tags: []
+user_id: sampa

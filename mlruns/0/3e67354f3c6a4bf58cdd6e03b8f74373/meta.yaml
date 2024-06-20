@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sampa/Desktop/GenAI/ml_flow/mlruns/0/3e67354f3c6a4bf58cdd6e03b8f74373/artifacts
+end_time: 1718895145314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e67354f3c6a4bf58cdd6e03b8f74373
+run_name: agreeable-fawn-383
+run_uuid: 3e67354f3c6a4bf58cdd6e03b8f74373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718895139870
+status: 3
+tags: []
+user_id: sampa
